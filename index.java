@@ -25,8 +25,8 @@ line(251,202,325,238)
  //leg thing of the creature
 fill(100,23,93)
 rect(180,245,40,100)
-  
- 
-	
+// foot of the creature  
+fill(100,23,93)
+triangle(200,320,160,355,240,355)	
 
 }
